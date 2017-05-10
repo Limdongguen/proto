@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 265e25c502e97ae4a89ae26b6ce98842
+timeCreated: 1478153236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NanumBarunpenOTF
+  fontNames:
+  - NanumBarunpenOTF
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

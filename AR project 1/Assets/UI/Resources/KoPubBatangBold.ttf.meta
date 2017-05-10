@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 231fe48df9b314b45b565ef370188fad
+timeCreated: 1478153523
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoPubBatang Bold
+  fontNames:
+  - KoPubBatang Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b7305b553d598124fa1c4f587e01a45a
+timeCreated: 1478153582
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KoPubDotum Light
+  fontNames:
+  - KoPubDotum Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
